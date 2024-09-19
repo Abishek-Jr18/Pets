@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "219638284351",
+    "firebase_url": "https://pets-260df-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pets-260df",
+    "storage_bucket": "pets-260df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219638284351:android:457e1e48bc690300a9388a",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2iIC6s7xlndyFThHCopPrxyG0uviL94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
